@@ -3,7 +3,7 @@
 
 ## Objectives
 
-In this project, you will implement an analysis pipeline to apply and interpret linear regression on the Iris dataset and other CSV-based datasets. You will enhance your plotting functions to visualize fitted regression lines and explore how overfitting can occur when modeling data.
+In this project, you will apply and interpret linear and polynomial regression on the Iris dataset and other CSV-based datasets. You will enhance your plotting functions to visualize fitted regression lines and explore how overfitting can occur when modeling data.
 
 ## Goals
 
